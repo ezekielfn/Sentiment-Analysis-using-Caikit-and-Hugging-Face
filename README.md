@@ -3,7 +3,8 @@
 
 Caikit is an advanced AI toolkit designed to simplify the process of working with models through user-friendly APIs. With Caikit, you gain access to a powerful set of tools that enable seamless model integration across diverse data domains and tasks. 
 
-Hugging Face provides an extensive collection of pre-trained models, allowing developers and researchers to leverage cutting-edge NLP and Generative AI capabilities with ease. The platform also offers user-friendly APIs, empowering users to integrate these models seamlessly into their own applications and projects.</p>
+Hugging Face provides an extensive collection of pre-trained models, allowing developers and researchers to leverage cutting-edge NLP and Generative AI capabilities with ease. The platform also offers user-friendly APIs, empowering users to integrate these models seamlessly into their own applications and projects. 
+</p>
 
 <div align="center">
 
